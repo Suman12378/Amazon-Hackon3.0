@@ -1,0 +1,16 @@
+@import "colors";
+
+.order-home{
+    >main{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 2rem;
+    >h1{
+        color: white;
+    }
+    }
+
+}
+
+
